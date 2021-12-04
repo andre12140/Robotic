@@ -9,3 +9,5 @@ The Kinematics Project can compute the kinematic model for a serial manipulator 
 This project consists of a simulation of an autonomous car operating inside IST campus. The car is able to move between any two arbitrary configurations along trajectories entirely contained inside the road areas normally reserved for vehicles. While moving the vehicle it complies with events defined prior to the starting of the mission such as: Stop traffic sign, Speed limit traffic sign,  Pedestrian crossing traffic sign and Pedestrian crossing at a pre-specified location and time.
 
 To teste the car simulation open matlab and run UI_test1.
+
+![alt text](https://github.com/andre12140/Robotic/blob/main/Car%20Simulation/ROB_CarSim.png)
